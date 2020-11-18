@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 我是acui，目前在学java和机器学习
 
 <!--
 **ACui96/ACui96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
